@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68f1d878862969e47bea4ac27c186f87, type: 3}
+  m_Name: 42
+  m_EditorClassIdentifier: 
+  textNarrativo: "El comit\xE9 solicita acondicionar mas espacios para pacientes
+    con Covid-19 debido a que la ocupaci\xF3n del hospital esta muy baja"
+  eleccionUno: Habilitar mas habitaciones para pacientes con Covid-19
+  eleccionDos: "Negar la petici\xF3n del comit\xE9"
+  efectoSalubridad1: 0
+  efectoAnimo1: 0
+  efectoOcupacion1: 50
+  efectoPresupuesto1: 30
+  efectoSalubridad2: 0
+  efectoAnimo2: 25
+  efectoOcupacion2: 18
+  efectoPresupuesto2: 39
+  referencias: 2c0000002b000000
+  final: 0

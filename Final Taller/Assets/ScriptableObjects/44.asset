@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68f1d878862969e47bea4ac27c186f87, type: 3}
+  m_Name: 44
+  m_EditorClassIdentifier: 
+  textNarrativo: "Los pacientes que no sufren Covid-19, por miedo a la infecci\xF3n
+    decidieron retirarse del hospital, tenemos mucho espacio libre"
+  eleccionUno: Habilitar todo el hospital para atender Covid-19
+  eleccionDos: Mantener el espacio disponible para cualquier eventualidad
+  efectoSalubridad1: 0
+  efectoAnimo1: 0
+  efectoOcupacion1: 80
+  efectoPresupuesto1: 26
+  efectoSalubridad2: 0
+  efectoAnimo2: 0
+  efectoOcupacion2: 16
+  efectoPresupuesto2: 19
+  referencias: 020000002d000000
+  final: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68f1d878862969e47bea4ac27c186f87, type: 3}
+  m_Name: 22
+  m_EditorClassIdentifier: 
+  textNarrativo: Los empleados exigen su paga, el hospital les debe 2 meses de trabajo
+  eleccionUno: Pagar a los empleados
+  eleccionDos: Ignorar las peticiones de los trabajadores
+  efectoSalubridad1: 0
+  efectoAnimo1: 0
+  efectoOcupacion1: 0
+  efectoPresupuesto1: 5
+  efectoSalubridad2: 0
+  efectoAnimo2: 0
+  efectoOcupacion2: 0
+  efectoPresupuesto2: 0
+  referencias: 1700000018000000
+  final: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68f1d878862969e47bea4ac27c186f87, type: 3}
+  m_Name: 41
+  m_EditorClassIdentifier: 
+  textNarrativo: "Recientemente llegaron un gran numero de pacientes con covid-19,
+    estamos al m\xE1ximo de nuestra capacidad, el problema es que tenemos nuevos
+    pacientes no respiratorios y no tenemos espacio"
+  eleccionUno: Habilitar los pasillos y salas de espera para atenderlos
+  eleccionDos: "Solicitar remisi\xF3n a otros hospitales"
+  efectoSalubridad1: 52
+  efectoAnimo1: 70
+  efectoOcupacion1: 0
+  efectoPresupuesto1: 62
+  efectoSalubridad2: 0
+  efectoAnimo2: 32
+  efectoOcupacion2: 0
+  efectoPresupuesto2: 43
+  referencias: 1d0000002a000000
+  final: 0

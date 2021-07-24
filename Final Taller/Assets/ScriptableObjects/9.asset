@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68f1d878862969e47bea4ac27c186f87, type: 3}
+  m_Name: 9
+  m_EditorClassIdentifier: 
+  textNarrativo: La comunidad solicita al hospital atender a pacientes no respiratorios
+  eleccionUno: "Negar la petici\xF3n de la comunidad "
+  eleccionDos: Habilitar las salas de espera y pasillos para atender a los pacientes
+    no respiratorios
+  efectoSalubridad1: 0
+  efectoAnimo1: 65
+  efectoOcupacion1: 0
+  efectoPresupuesto1: 20
+  efectoSalubridad2: 26
+  efectoAnimo2: 65
+  efectoOcupacion2: 100
+  efectoPresupuesto2: 60
+  referencias: 0a0000000b000000
+  final: 0

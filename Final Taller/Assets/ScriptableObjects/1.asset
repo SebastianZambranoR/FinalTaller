@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68f1d878862969e47bea4ac27c186f87, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  textNarrativo: 'En el actual marco de la pandemia mundial, el gobierno nos solicita
+    convertirnos en un hospital dedicado enteramente a atender casos de Covid-19 '
+  eleccionUno: "Convertirse en un hospital especializado, por esto es necesario migrar
+    a los dem\xE1s pacientes a otros hospitales"
+  eleccionDos: Mantener el status actual
+  efectoSalubridad1: 60
+  efectoAnimo1: 50
+  efectoOcupacion1: 63
+  efectoPresupuesto1: 70
+  efectoSalubridad2: 0
+  efectoAnimo2: 0
+  efectoOcupacion2: 0
+  efectoPresupuesto2: 53
+  referencias: 0200000029000000
+  final: 0
